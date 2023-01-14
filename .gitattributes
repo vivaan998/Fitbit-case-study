@@ -1,14 +1,11 @@
 # Linguist overrides
 # This document allows GitHub to identify Markdown as a language and add them to GitHub Repository's language statistics.
 
-*.md linguist-detectable=true
 README.md linguist-detectable=false
 readme.md linguist-detectable=false
 *.Rmd linguist-vendored=false
 *.Rmd linguist-generated=false
 *.Rmd linguist-documentation=false
 *.Rmd linguist-detectable=true
-
-
 *.md linguist-detectable=true
 *.md linguist-documentation=false
